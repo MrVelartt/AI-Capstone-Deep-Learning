@@ -2,5 +2,6 @@ images_dataSAT/
 *.tar
 *.keras
 *.model.keras
+*.pth
 bash.exe.stackdump
 .claude/
